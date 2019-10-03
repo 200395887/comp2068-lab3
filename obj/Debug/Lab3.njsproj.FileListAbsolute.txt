@@ -1,0 +1,2 @@
+C:\Users\aksha\Desktop\Nodejs\Lab3\obj\Debug\Lab3.njsproj.CoreCompileInputs.cache
+C:\Users\aksha\Desktop\Nodejs\Lab3\bin\Microsoft.NodejsTools.WebRole.dll
